@@ -17,6 +17,7 @@ The project follows a **Medallion Architecture** with three layers:
 - **Bronze Layer** – Raw data ingestion from CSV files into SQL Server.  
 - **Silver Layer** – Data cleansing, standardization, and normalization.  
 - **Gold Layer** – Business-ready data modeled in a **star schema** for reporting and analytics.  
+<img width="1536" height="1024" alt="arch_git" src="https://github.com/user-attachments/assets/438f942e-ecc3-46fb-9181-f600ae137d5f" />
 
 ---
 

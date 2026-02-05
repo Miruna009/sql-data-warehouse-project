@@ -1,12 +1,19 @@
 # Data Warehouse and Analytics Project 🚀
 
+[![SQL Course](https://img.shields.io/badge/SQL_Course-Data_With_Baraa-ff69b4)](https://academy.datawithbaraa.com/l/pdp/sql-complete-course)
 [![SQL](https://img.shields.io/badge/SQL-Server-blue)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![ETL](https://img.shields.io/badge/ETL-Pipelines-orange)](#)
 [![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-green)](#)
 [![Analytics](https://img.shields.io/badge/Analytics-SQL-blueviolet)](#)
 
+
+
+
+
 This repository demonstrates a **modern data warehousing and analytics solution** using SQL Server. 
 It highlights end-to-end data engineering skills, from building ETL pipelines to designing star-schema data models and generating SQL-based analytics.  
+
+
 
 ---
 
@@ -78,5 +85,6 @@ Hi there! I am Miruna, an aspiring data analyst with experience in reporting, pr
 
 ## ☕ Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miruna-ghi%C8%9B%C4%83/)
+
 
 ---
